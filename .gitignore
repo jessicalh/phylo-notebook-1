@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data files
+*.fasta
+*.fa
+*.faa
+*.aln
+*.tree
+*.newick
+*.nwk
+
+# Large files
+*.tar.gz
+*.zip
+*.gz
+
+# Logs
+*.log
+logs/
+
+# Output directories
+results/
+output/
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Test data
+test_data/
+mock_data/
+
+# Google Drive
+drive/
+MyDrive/
+
+# Checkpoint files
+checkpoints/
+*.checkpoint
+*.ckpt
